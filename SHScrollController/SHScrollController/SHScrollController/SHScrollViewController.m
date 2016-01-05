@@ -47,7 +47,7 @@
 //初始化UI
 - (void)setupUI
 {
-    _tabButtonScrollView = [[UIScrollView alloc] initWithFrame:CGRectMake(0.0, 0.0, self.view.frame.size.width, 54.0)];
+    _tabButtonScrollView = [[UIScrollView alloc] initWithFrame:CGRectMake(0.0, 0.0, self.view.frame.size.width, 64.0)];
     _tabButtonScrollView.showsHorizontalScrollIndicator = NO;
     _tabButtonScrollView.showsVerticalScrollIndicator = NO;
     
